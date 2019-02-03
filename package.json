@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tenmediatech/slider/issues"
   },
-  "homepage": "https://github.com/tenmediatech/slider#readme"
+  "homepage": "https://github.com/tenmediatech/slider#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
 }
