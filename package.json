@@ -1,0 +1,19 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenmediatech/slider.git"
+  },
+  "author": "ten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenmediatech/slider/issues"
+  },
+  "homepage": "https://github.com/tenmediatech/slider#readme"
+}
